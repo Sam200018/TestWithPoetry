@@ -1,4 +1,4 @@
-package com.example.testwithpoetry
+package com.example.testwithpoetry.data
 
 sealed class NetworkResource<T> {
     data class Success<T>(val data: T) : NetworkResource<T>()

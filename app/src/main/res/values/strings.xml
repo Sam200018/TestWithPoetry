@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestWithPoetry</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="birthday_label">Birthday</string>
+    <string name="error_field_label">Check your info, it could be wrong:/</string>
+    <string name="profile_label">Profile</string>
 </resources>
